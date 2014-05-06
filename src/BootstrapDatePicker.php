@@ -2,6 +2,10 @@
 
 namespace Intersvyaz\Widgets;
 
+/**
+ * DatePicker widget fot Twitter Bootstrap.
+ * @see https://github.com/eternicode/bootstrap-datepicker
+ */
 class BootstrapDatePicker extends \CInputWidget
 {
 	/**
